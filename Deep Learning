@@ -1,0 +1,352 @@
+# 🧠 Deep Learning
+
+A complete Deep Learning repository covering theory, mathematical concepts, practical implementations, and real-world projects using TensorFlow, Keras, and Python.
+
+---
+
+## 📌 About
+
+This repository is designed for beginners to advanced learners who want to master Deep Learning from scratch. It contains well-structured notebooks, theory notes, datasets, and projects for interview preparation and real-world applications.
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Google Colab
+- Jupyter Notebook
+
+---
+
+# 📂 Repository Structure
+
+```
+Deep-Learning/
+│
+├── 01_Python_Revision/
+├── 02_NumPy/
+├── 03_Pandas/
+├── 04_Data_Preprocessing/
+├── 05_Train_Test_Split/
+├── 06_Feature_Scaling/
+├── 07_Neural_Network_Basics/
+├── 08_Artificial_Neural_Network/
+├── 09_Backpropagation/
+├── 10_Activation_Functions/
+├── 11_Loss_Functions/
+├── 12_Optimizers/
+├── 13_Dropout/
+├── 14_Batch_Normalization/
+├── 15_CNN/
+├── 16_RNN/
+├── 17_LSTM/
+├── 18_GRU/
+├── 19_AutoEncoder/
+├── 20_Transfer_Learning/
+├── 21_Project/
+├── datasets/
+├── images/
+├── models/
+└── README.md
+```
+
+---
+
+# 📖 Topics Covered
+
+## Python Fundamentals
+
+- Variables
+- Data Types
+- Loops
+- Functions
+- OOP
+
+---
+
+## Data Analysis
+
+- NumPy
+- Pandas
+- Data Cleaning
+- Missing Values
+- Feature Engineering
+
+---
+
+## Machine Learning Basics
+
+- Train Test Split
+- StandardScaler
+- Label Encoding
+- One Hot Encoding
+
+---
+
+## Deep Learning
+
+- Introduction
+- Biological Neuron
+- Artificial Neuron
+- Neural Networks
+- Perceptron
+- ANN Architecture
+- Feed Forward Network
+- Backpropagation
+
+---
+
+## Activation Functions
+
+- Sigmoid
+- ReLU
+- Leaky ReLU
+- ELU
+- Tanh
+- Softmax
+
+---
+
+## Loss Functions
+
+- Binary Crossentropy
+- Categorical Crossentropy
+- Sparse Categorical Crossentropy
+- Mean Squared Error
+- Mean Absolute Error
+
+---
+
+## Optimizers
+
+- Gradient Descent
+- SGD
+- Adam
+- RMSProp
+- Adagrad
+
+---
+
+## TensorFlow & Keras
+
+- Sequential API
+- Functional API
+- Dense Layer
+- Compile
+- Fit
+- Predict
+- Evaluate
+- Save Model
+- Load Model
+
+---
+
+## Regularization
+
+- Dropout
+- L1 Regularization
+- L2 Regularization
+- Batch Normalization
+- Early Stopping
+
+---
+
+## Convolutional Neural Networks (CNN)
+
+- Image Processing
+- Filters
+- Padding
+- Pooling
+- Flatten Layer
+- CNN Architecture
+
+Projects
+
+- Cat vs Dog Classification
+- Handwritten Digit Recognition
+- Face Mask Detection
+
+---
+
+## Recurrent Neural Networks (RNN)
+
+- Sequence Data
+- Vanilla RNN
+- Vanishing Gradient
+- Exploding Gradient
+
+---
+
+## LSTM
+
+- Forget Gate
+- Input Gate
+- Output Gate
+
+Applications
+
+- Stock Price Prediction
+- Time Series Forecasting
+- Sentiment Analysis
+
+---
+
+## GRU
+
+- GRU Architecture
+- Comparison with LSTM
+
+---
+
+## Transfer Learning
+
+- VGG16
+- ResNet50
+- MobileNet
+- EfficientNet
+
+---
+
+# 📊 Deep Learning Projects
+
+- Customer Churn Prediction
+- Heart Disease Prediction
+- Diabetes Prediction
+- Breast Cancer Prediction
+- Loan Approval Prediction
+- MNIST Digit Classification
+- Fashion MNIST
+- CIFAR-10 Image Classification
+- Cat vs Dog Classification
+- House Price Prediction
+- Movie Review Sentiment Analysis
+- Spam Email Detection
+
+---
+
+# 📈 Evaluation Metrics
+
+Classification
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- ROC-AUC
+- Confusion Matrix
+
+Regression
+
+- MAE
+- MSE
+- RMSE
+- R² Score
+
+---
+
+# 📚 Dataset Sources
+
+- Kaggle
+- UCI Machine Learning Repository
+- TensorFlow Datasets
+- Scikit-Learn Datasets
+
+---
+
+# 🛠 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Deep-Learning.git
+```
+
+Move into the project
+
+```bash
+cd Deep-Learning
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# ▶️ Run
+
+```bash
+python ann.py
+```
+
+or
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 🎯 Learning Roadmap
+
+- Python
+- NumPy
+- Pandas
+- Data Preprocessing
+- Machine Learning Basics
+- Artificial Neural Networks
+- CNN
+- RNN
+- LSTM
+- GRU
+- Transfer Learning
+- Real-world Projects
+- Deployment
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+**Indresh Yadav**
+
+- Python Developer
+- Machine Learning Engineer
+- Deep Learning Enthusiast
+- MERN Stack Developer
+
+---
+
+⭐ If you found this repository helpful, don't forget to **Star** it on GitHub!
